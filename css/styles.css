@@ -102,7 +102,7 @@
 }
 
 .freetofresh {
-  background: url("../img/derek-thomson-TWoL-QCZubY-unsplash 4.jpg") no-repeat center center;
+  background: url("/img/derek-thomson-TWoL-QCZubY-unsplash4.jpg") no-repeat center center;
   width: 1920px;
   height: 964px;
   display: flex;
@@ -489,7 +489,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("../img.travel/travelbackground.jpg") no-repeat center center;
+  background: url("/img.travel/travelbackground.jpg") no-repeat center center;
 }
 
 .popular__listbottom {
