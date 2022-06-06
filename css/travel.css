@@ -46,19 +46,19 @@
 .Incredible {
   width: 441px;
   height: 294px;
-  background: url("/img.travel/photo-1500108870510-66db24a39ee41.jpg") no-repeat center center;
+  background: url(../img.travel/photo-1500108870510-66db24a39ee41.jpg) no-repeat center center;
 }
 
 .Seconds {
   width: 514px;
   height: 342px;
-  background: url("/img.travel/artem-beliaikin-gBXX7odcoy0-unsplash1.jpg") no-repeat center center;
+  background: url(../img.travel/artem-beliaikin-gBXX7odcoy0-unsplash1.jpg) no-repeat center center;
 }
 
 .Unexplored {
   width: 441px;
   height: 294px;
-  background: url("/img.travel/v2osk-WNS__aBJjl4-unsplash1.jpg") no-repeat center center;
+  background: url(../img.travel/v2osk-WNS__aBJjl4-unsplash1.jpg) no-repeat center center;
 }
 
 .photo__textstory {
