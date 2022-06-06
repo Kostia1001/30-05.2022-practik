@@ -102,7 +102,7 @@
 }
 
 .freetofresh {
-  background: url("/img/derek-thomson-TWoL-QCZubY-unsplash4.jpg") no-repeat center center;
+  background: url("../img/derek.jpg") no-repeat center center;
   width: 1920px;
   height: 964px;
   display: flex;
@@ -282,7 +282,7 @@
 }
 
 .nearespng {
-  background: url(../img/ken.png);
+  background: url("../img/ken.png");
   width: 1920px;
   height: 758px;
   display: flex;
@@ -427,15 +427,15 @@
 }
 
 .Beautiful {
-  background: url("/img.popular/dmitry.jpg") no-repeat center center;
+  background: url("../img.popular/dmitry.jpg");
 }
 
 .Gastronomic {
-  background: url("/img.popular/michelle.jpg") no-repeat center center;
+  background: url("../img.popular/michelle.jpg");
 }
 
 .Breathtaking {
-  background: url("/img.popular/christoph.jpg") no-repeat center center;
+  background: url("../img.popular/christoph.jpg");
 }
 
 .photo__text {
@@ -489,7 +489,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("/img.travel/travelbackground.jpg") no-repeat center center;
+  background: url("../imgtravel/travback.jpg");
 }
 
 .popular__listbottom {
@@ -531,19 +531,19 @@
 .Incredible {
   width: 441px;
   height: 294px;
-  background: url("/img.travel/photo-1500108870510-66db24a39ee41.jpg") no-repeat center center;
+  background: url("../imgtravel/photo32.jpg");
 }
 
 .Seconds {
   width: 514px;
   height: 342px;
-  background: url("/img.travel/artem-beliaikin-gBXX7odcoy0-unsplash1.jpg") no-repeat center center;
+  background: url("../imgtravel/artem.jpg");
 }
 
 .Unexplored {
   width: 441px;
   height: 294px;
-  background: url("/img.travel/v2osk-WNS__aBJjl4-unsplash1.jpg") no-repeat center center;
+  background: url("../imgtravel/v2osk.jpg");
 }
 
 .photo__textstory {
@@ -597,7 +597,7 @@
   height: 201px;
   width: 1920px;
   position: absolute;
-  background: url("/img.footer/imgMountains 1.png") no-repeat center center;
+  background: url("../imgfooter/imgMountains 1.png");
   color: white;
   display: flex;
   align-items: center;

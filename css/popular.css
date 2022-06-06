@@ -45,15 +45,15 @@
 }
 
 .Beautiful {
-  background: url(../img.popular/dmitry.jpg);
+  background: url("../img.popular/dmitry.jpg");
 }
 
 .Gastronomic {
-  background: url(../img.popular/michelle.jpg);
+  background: url("../img.popular/michelle.jpg");
 }
 
 .Breathtaking {
-  background: url(../img.popular/christoph.jpg);
+  background: url("../img.popular/christoph.jpg");
 }
 
 .photo__text {

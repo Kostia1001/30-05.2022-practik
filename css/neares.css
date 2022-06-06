@@ -1,5 +1,5 @@
 .nearespng {
-  background: url(../img/ken.png);
+  background: url("../img/ken.png");
   width: 1920px;
   height: 758px;
   display: flex;
