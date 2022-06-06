@@ -1,0 +1,71 @@
+.freetofresh {
+  background: url("/img/derek-thomson-TWoL-QCZubY-unsplash 4.jpg") no-repeat center center;
+  width: 1920px;
+  height: 964px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.freetofresh__rectangle {
+  background: rgba(0, 0, 0, 0.85);
+  width: 1343px;
+  height: 409px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.rectangle__texttop {
+  font-family: "Lora";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 84px;
+  line-height: 100px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.rectangle__textmiddlle {
+  padding-top: 32px;
+  text-align: center;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.rectangle__textbot {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 316px;
+  height: 61px;
+  background: #1ED500;
+}
+
+.textbot__butom {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.rectangle__textbot:hover {
+  background: rgba(29, 95, 29, 0.4);
+}
+
+.airoplan {
+  padding-top: 100px;
+}

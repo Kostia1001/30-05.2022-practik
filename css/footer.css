@@ -1,0 +1,74 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.footer {
+  height: 201px;
+  width: 1920px;
+  position: absolute;
+  background: url("/img.footer/imgMountains 1.png") no-repeat center center;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__logo {
+  font-family: "Roboto Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 32px;
+  color: #333333;
+}
+
+.nav {
+  padding: 0 0 0 372px;
+  width: 700px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.nav__list {
+  width: 700px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+}
+
+.footerhref {
+  color: #333333;
+  text-decoration: none;
+}
+
+.list__item__footer {
+  margin-right: 56px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  color: #333333;
+}
+
+.language-selector {
+  display: flex;
+}
+
+.footer__social {
+  width: 192px;
+  height: 24px;
+  padding: 0 0 0 281px;
+}
+
+.social__list {
+  width: 100%;
+}
+
+.list__ikon__footer {
+  padding-right: 38px;
+  display: flex;
+  align-items: center;
+}
