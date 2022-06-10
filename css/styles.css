@@ -4,6 +4,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Quicksand:wght@500&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -46,6 +47,12 @@
 .headerhref {
   color: #FFFFFF;
   text-decoration: none;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  color: #FFFFFF;
 }
 
 .list__item {
@@ -452,7 +459,6 @@
   font-size: 18px;
   line-height: 18px;
   color: #FFFFFF;
-  align-items: center center;
   transform: translate(5px, 4px);
 }
 
@@ -511,7 +517,7 @@
   display: flex;
   align-items: center;
   text-transform: uppercase;
-  color: #333333;
+  color: #FFFFFF;
 }
 
 .triplphoto {
@@ -531,19 +537,19 @@
 .Incredible {
   width: 441px;
   height: 294px;
-  background: url("../imgtravel/photo32.jpg");
+  background: url("../imgtravel/video1.jpg");
 }
 
 .Seconds {
   width: 514px;
   height: 342px;
-  background: url("../imgtravel/artem.jpg");
+  background: url("../imgtravel/centervideo.jpg");
 }
 
 .Unexplored {
   width: 441px;
   height: 294px;
-  background: url("../imgtravel/v2osk.jpg");
+  background: url("../imgtravel/video2.jpg");
 }
 
 .photo__textstory {
